@@ -15,7 +15,7 @@
 
 - 内存减少`54%`。
 
-## 2 1.2.【 源码的升级】
+## 2 【 源码的升级】
 
 - 使用`Proxy`代替`defineProperty`实现响应式。
 
@@ -2294,6 +2294,12 @@ function sendToy(){
      // 注入数据
     let {money,updateMoney} = inject('moneyContext',{money:0,updateMoney:(x:number)=>{}})
      let car = inject('car')
+
+
+
+
+
+
 
 
 
