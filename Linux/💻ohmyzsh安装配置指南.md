@@ -1,6 +1,6 @@
 ![image](https://ohmyz.sh/img/themes/omz-update.png)
 
-# Ohmyzsh安装配置指南
+	# Ohmyzsh安装配置指南
 
 ## 1 安装
 

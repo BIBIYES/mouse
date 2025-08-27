@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d3fe16fef13b87d",
+        "id": "3541642749e8b797",
         "type": "tabs",
         "children": [
           {
-            "id": "f8aa75ab514636e5",
+            "id": "16175b8e60c3e32e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Vue3Ts/Vue3快速上手.md",
+                "file": "前端/🌍element plus 技巧使用指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vue3快速上手"
+              "title": "🌍element plus 技巧使用指南"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Vue3Ts/Vue3快速上手.md",
+                "file": "前端/🌍element plus 技巧使用指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Vue3快速上手 的大纲"
+              "title": "🌍element plus 技巧使用指南 的大纲"
             }
           },
           {
@@ -186,12 +186,11 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -208,34 +208,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a9e52af9ef0cb5a",
+  "active": "16175b8e60c3e32e",
   "lastOpenFiles": [
+    "前端/😩TypeScript 教程.md",
+    "前端/🌍element plus 技巧使用指南.md",
+    "前端/🚦前端性能优化.md",
     "前端/⚒️代码质量检查库使用及配置.md",
     "前端/📦前端像素变量.md",
-    "前端/🚦前端性能优化.md",
-    "前端/TypeScript 教程.md",
-    "Linux/Debian 配置 Systemd 开机自启动服务.md",
-    "Linux/🚢docker安装与卸载.md",
-    "Linux/🤵关于我的常见配置.md",
     "Linux/🔯git命令速查表.md",
-    "Linux/🔐权限用户.md",
+    "Linux/📦apt软件包的使用方法.md",
+    "Linux/📃vim 使用教程.md",
     "Linux/📡frpc的使用方法.md",
-    "Linux/🍊Ubuntu ufw防火墙使用指南.md",
     "Linux/💻ohmyzsh安装配置指南.md",
-    "前端/uniapp/00-HBuilder X 使用指南.md",
-    "后端/go/Go语言常用命令汇总.md",
+    "Linux/🤵关于我的常见配置.md",
+    "Linux/🧭Caddy 使用指南：从入门到部署单页应用.md",
+    "Linux/🚢Debian 配置 Systemd 开机自启动服务.md",
+    "Linux/🚢docker安装与卸载.md",
+    "Linux/🍊Ubuntu ufw防火墙使用指南.md",
     "网络安全/👁️NMAP 网络扫描工具笔记.md",
+    "后端/go/Go语言常用命令汇总.md",
+    "后端/java/springboot/03-bean.md",
+    "后端/redis初级使用指南/redis安装及springboot使用教程.md",
+    "技术/💻windowns 终端代理配置教程.md",
+    "技术/🕷️mitmproxy基础使用抓包教程.md",
+    "技术/🪟windows 命令.md",
+    "Linux/🔢MYSQL配置.md",
     "积分.md",
     "前端/Vue3Ts/Vue3快速上手.md",
-    "Linux/🧭Caddy 使用指南：从入门到部署单页应用.md",
-    "前端/vuejs/🛠️ Vue3 项目图标自动导入与插件配置文档.md",
-    "前端/css/CSS布局.md",
-    "前端/sass/sass快速入门.md",
-    "后端/java/springboot/文件上传功能实现原理与实践.md",
-    "后端/java/springboot/02-文件上传+拦截器.md",
-    "后端/java/springboot/02-Controller.md",
-    "后端/java/springboot/00-快速开始-创建项目的第一件事.md",
-    "后端/java/springboot/09-maven打包.md",
+    "Linux/🔐权限用户.md",
     "前端/vuejs",
     "后端/java/springboot/assets/Pasted image 20240924124222.png",
     "后端/java/springboot/assets/Pasted image 20240924113759.png",

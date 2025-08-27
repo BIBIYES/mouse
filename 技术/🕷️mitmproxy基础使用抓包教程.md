@@ -1,11 +1,11 @@
-## 安装 `mitmproxy`
+## 1 安装 `mitmproxy`
 可以现在通过  
 * [Microsoft](ms-windows-store://pdp/?ProductId=9NWNDLQMNZD7) 
 * [github](https://github.com/mitmproxy/mitmproxy)
 * `mitmproxy` [官网](https://mitmproxy.org/)
 三种方式来安装
 
-## 运行 `mitmproxy`
+## 2 运行 `mitmproxy`
 
 1. 打开 `cmd` 输入
 
@@ -18,13 +18,13 @@ mitmweb -p 9000 --set web_port=9001
 >  **在命令行中**
 >  第一个是 `mitmproxy` 代理的监听端口
 >  第二个是 `mitmproxy` web 界面的监听端口
-## 配置代理
+## 3 配置代理
 
 现在我们是**无法抓取**我们电脑的上的数据包的，*因为我们还没有配置代理*
 	1. 打开 `windwos ` 网络和 `Internet` 手动设置代理服务器
 	2. 配置 ip 地址为 127.0.0.1 端口为 9000 如图
 	![[Pasted image 20250416205042.png]]
-## 安装 `mitmproxy` 根证书
+## 4 安装 `mitmproxy` 根证书
 
 *如果我们没有安装根证书, 是无法抓取到 `https` 流量的*
 1. 在浏览器地址栏中输入 `http://mitm.it`

@@ -6,7 +6,7 @@ tags:
 date: 2025-05-02
 ---
 
-# TypeScript 教程 1 
+#  😩TypeScript 教程
 
 ## 1 什么是 `TypeScript`
 
